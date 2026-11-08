@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository was created as an example of agentic coding for IWU's "AI For All" class in November, 2026.
+
 # 🌾 Prairie Defense: Midwest Native Guardians
 
 > **A browser-based tower defense game celebrating Midwestern ecology — native plants and animals vs. invasive species.**
